@@ -1,13 +1,13 @@
-<img src="nafiz-noyon-github.gif" alt="MasterHead" width="" height="">
-<h1 align="center">Assalamualykum 🤝. Ich heiße Noyon</h1>
+<img src="image here" alt="MasterHead" width="" height="">
+<h1 align="center">Assalamualykum 🤝. I'm Jobaed</h1>
 <h3 align="center">Wenn ich programmiere, mache ich das zum Spaß. Deshalb langweile ich mich nie.</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz-swe&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz-swe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?jobaied-cis-swe&label=Profile%20views&color=0e75b6&style=flat" alt="jobaied-cis" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Ich arbeite derzeit an [Learn Deutsch](https://github.com/NAFIZ-SWE/ShosurBari.com)
+- 🔭 Ich arbeite derzeit an [Learn Deutsch](https://github.com/)
 
 - 🌱 Aktuell: *Datenwissenschaft mit Python* | OSTAD.
 
@@ -17,17 +17,17 @@
 
 - 💬 Frag mich über *PHP*
 
-- 📫 So erreichst du mich *nafizulislam.swe@gmail.com*
+- 📫 So erreichst du mich *jobaiedchowdhuryaksh031@gmail.com*
 
 - ⚡ Interessante Tatsache: *Ich esse Python und PHP*
 &nbsp;
 
 <h3 align="left">Verbinde dich mit mir</h3>
 <p align="left">
-<a href="https://codepen.io/nafiz-swe-diu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nafiz-swe-diu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nafiz-swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafiz-swe" height="30" width="40" /></a>
-<a href="https://fb.com/nafiz.SE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafiz.swe.diu" height="30" width="40" /></a>
-<a href="https://instagram.com/nafiz.swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nafiz.swe.diu" height="30" width="40" /></a>
+<a href="https://codepen.io/jobaied-cis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jobaied-cis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jobaied-cis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jobaied-cis" height="30" width="40" /></a>
+<a href="https://fb.com/jobaied-cis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jobaied-cis" height="30" width="40" /></a>
+<a href="https://instagram.com/jobaied-cis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jobaied-cis" height="30" width="40" /></a>
 </p>
 <h3 align="left">Data Science</h3>
 <p align="left">
@@ -101,6 +101,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-swe&show_icons=true&locale=de&layout=compact" alt="nafiz-swe" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe&show_icons=true&locale=de" alt="nafiz-swe" /></p>
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=nafiz-swe&theme=github-dark&locale=de" alt="GitHub Streak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobaied-cis&show_icons=true&locale=de&layout=compact" alt="jobaied-cis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jobaied-cis&show_icons=true&locale=de" alt="jobaied-cis" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=jobaied-cis&theme=github-dark&locale=en" alt="GitHub Streak" /></p>
