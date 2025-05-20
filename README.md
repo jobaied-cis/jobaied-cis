@@ -1,28 +1,24 @@
 <img src="image here" alt="MasterHead" width="" height="">
 <h1 align="center">Assalamualykum 🤝. I'm Jobaied</h1>
-<h3 align="center">Wenn ich programmiere, mache ich das zum Spaß. Deshalb langweile ich mich nie.</h3>
+<h3 align="center">Coding is my hobby, so I never get bored.</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?jobaied-cis-swe&label=Profile%20views&color=0e75b6&style=flat" alt="jobaied-cis" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Ich arbeite derzeit an [Learn Deutsch](https://github.com/)
+🔭 I'm currently working on Learn Deutsch
 
-- 🌱 Aktuell: *Datenwissenschaft mit Python* | OSTAD.
+💬 Ask me about Data Science
 
-- 🌱 Kurs in *PHP mit Laravel* abgeschlossen | OSTAD.
+💬 Ask me about PHP
 
-- 💬 Frag mich über *Datenwissenschaft*
+📫 You can reach me at jobaiedchowdhuryaksh031@gmail.com
 
-- 💬 Frag mich über *PHP*
-
-- 📫 So erreichst du mich *jobaiedchowdhuryaksh031@gmail.com*
-
-- ⚡ Interessante Tatsache: *Ich esse Python und PHP*
+⚡ Fun fact: I eat Python and PHP
 &nbsp;
 
-<h3 align="left">Verbinde dich mit mir</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/jobaied-cis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jobaied-cis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jobaied-cis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jobaied-cis" height="30" width="40" /></a>
