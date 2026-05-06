@@ -1,11 +1,10 @@
-<img src="jobaied.png" alt="MasterHead">
+
 
 <h1 align="center">Assalamualaikum 🤝 I'm Jobaied</h1>
 <h3 align="center">AI Engineering Student | Java & Web Developer 🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
----
 
 ## 🚀 Current Focus
 
@@ -13,8 +12,6 @@
 - 🌐 Building **Web Development Projects**
 - 🤖 Exploring **Python & AI Fundamentals**
 - ⚙️ Getting started with **Spring Boot & APIs**
-
----
 
 ## 🧠 About Me
 
@@ -24,14 +21,12 @@
 - 🌱 Exploring **Python & Artificial Intelligence**
 - 🌍 Goal: Higher study abroad (Germany 🇩🇪 / USA 🇺🇸)
 
----
 
 ## 📫 Contact
 
 - 📧 Email: jobaiedchowdhuryaksh031@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jobaied-chowdhury-akash/  
 
----
 
 ## 🌐 Connect with me
 
@@ -41,7 +36,6 @@
 <a href="https://instagram.com/akashc031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
----
 
 ## 🛠 Skills
 
@@ -56,8 +50,11 @@ Data Structures | Algorithms | Problem Solving
 
 ### ⚙️ Tools
 Git | GitHub | VS Code | PyCharm
+## 🔥 Featured Project
 
----
+- 🌐 DIU CIS Club Website  
+👉 https://diu-cis-club-webside.netlify.app/
+
 
 ## 📊 GitHub Stats
 
